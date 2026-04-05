@@ -1,3 +1,8 @@
+# This is an `<h1>` heading, which is the largest
+
+## This is an `<h2>` heading
+
+###### This is an `<h6>`heading, which is the smallest
 # Communicate using Markdown
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
